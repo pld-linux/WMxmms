@@ -1,5 +1,5 @@
 Summary:	An XMMS interface for WindowMaker
-Summary(pl.UTF-8):   Interfejs XMMS dla WindowMakera
+Summary(pl.UTF-8):	Interfejs XMMS dla WindowMakera
 Name:		WMxmms
 Version:	0.1.4
 Release:	1
