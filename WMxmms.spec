@@ -1,5 +1,5 @@
 Summary:	An XMMS interface for WindowMaker
-Summary(pl):	Interfejs XMMS dla WindowMakera
+Summary(pl.UTF-8):   Interfejs XMMS dla WindowMakera
 Name:		WMxmms
 Version:	0.1.4
 Release:	1
@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 An XMMS interface for WindowMaker.
 
-%description -l pl
+%description -l pl.UTF-8
 Interfejs XMMS dla WindowMakera.
 
 %prep
